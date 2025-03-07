@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningATB11xJavaPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/HelloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="06-Mar-2025 First program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1741331895115</updated>
     </task>
+    <task id="LOCAL-00001" summary="06-Mar-2025 First program">
+      <option name="closed" value="true" />
+      <created>1741332838838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741332838838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="06-Mar-2025 First program" />
+    <option name="LAST_COMMIT_MESSAGE" value="06-Mar-2025 First program" />
   </component>
 </project>
