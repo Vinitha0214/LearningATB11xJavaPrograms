@@ -4,24 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="06-Mar-2025 First program">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/ABC123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab004_Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab005_Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab006_CommentsMulti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab007_Comments_ShortCuts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab008_Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab009_Keywords_Identifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab010_Keywords_Identifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab011_Comm_Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab012_Comm_Math_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab013_Println_vs_Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/This_is_a_very_long_name_Blah_Blah.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Vinitha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/_ABC_abc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/_V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/this$vinitha.java" afterDir="false" />
+    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="10-Mar-2025 First day exercises">
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab014_MultipleMainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab015_Variables_Byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab016_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab017_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab018_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab019_IntrerviewQnA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab020_InterviewQnA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab021_Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab022_Numerics_Data_types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab023_Byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab024_PrintF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab025_Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab026_Local_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab027_Multiple_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab028_Task_Table_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Type_Casting/Lab057_TypeCasting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,42 +61,27 @@
     "Application.Lab011_Comm_Math.executor": "Run",
     "Application.Lab012_Comm_Math_Exception.executor": "Run",
     "Application.Lab013_Println_vs_Print.executor": "Run",
+    "Application.Lab014_Variables.executor": "Run",
+    "Application.Lab016_Variables.executor": "Run",
+    "Application.Lab017_Variables.executor": "Run",
+    "Application.Lab018_Variables.executor": "Run",
+    "Application.Lab019_IntrerviewQnA.executor": "Run",
+    "Application.Lab024_PrintF.executor": "Run",
+    "Application.Lab025_Task_Table_9.executor": "Run",
     "Application._.executor": "Run",
     "Application._V.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Lab008_Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basic.Lab008_Comments" />
-      <module name="LearningATB11xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab010_Keywords_Identifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basic.Lab010_Keywords_Identifier" />
-      <module name="LearningATB11xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab028_Task_Table_9">
     <configuration name="Lab011_Comm_Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basic.Lab011_Comm_Math" />
       <module name="LearningATB11xJavaPrograms" />
@@ -124,12 +108,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_V" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basic._V" />
+    <configuration name="Lab014_MultipleMainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Basics_part2.Lab014_MultipleMainMethod" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basic.*" />
+          <option name="PATTERN" value="ex_02_Java_Basics_part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab024_PrintF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Basics_part2.Lab024_PrintF" />
+      <module name="LearningATB11xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_Java_Basics_part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab028_Task_Table_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Basics_part2.Lab028_Task_Table_9" />
+      <module name="LearningATB11xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_Java_Basics_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab028_Task_Table_9" />
+        <item itemvalue="Application.Lab024_PrintF" />
+        <item itemvalue="Application.Lab014_MultipleMainMethod" />
         <item itemvalue="Application.Lab012_Comm_Math_Exception" />
         <item itemvalue="Application.Lab011_Comm_Math" />
-        <item itemvalue="Application._V" />
-        <item itemvalue="Application.Lab010_Keywords_Identifier" />
-        <item itemvalue="Application.Lab008_Comments" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741506863814</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="10-Mar-2025 First day exercises">
+      <option name="closed" value="true" />
+      <created>1741759253451</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741759253451</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +230,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="06-Mar-2025 First program" />
-    <option name="LAST_COMMIT_MESSAGE" value="06-Mar-2025 First program" />
+    <MESSAGE value="10-Mar-2025 First day exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="10-Mar-2025 First day exercises" />
   </component>
 </project>
