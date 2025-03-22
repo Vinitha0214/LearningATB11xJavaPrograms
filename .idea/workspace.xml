@@ -4,23 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="10-Mar-2025 First day exercises">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab014_MultipleMainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab015_Variables_Byte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab016_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab017_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab018_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab019_IntrerviewQnA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab020_InterviewQnA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab021_Boolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab022_Numerics_Data_types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab023_Byte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab024_PrintF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab025_Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab026_Local_Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab027_Multiple_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab028_Task_Table_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Type_Casting/Lab057_TypeCasting.java" afterDir="false" />
+    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="11-Mar-2025 Variable exercises">
+      <change afterPath="$PROJECT_DIR$/src/Ex_03_Literals/Lab028_Final_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_03_Literals/Lab029_Literals_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_03_Literals/Lab030_Literals_Float.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_03_Literals/Lab031_Literals_Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_03_Literals/Lab032_Literals_P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_03_Literals/Lab033_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_03_Literals/Lab034_Char_Literal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_03_Literals/Lab035_Non_Primitive_Literal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab036_Operators_Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab037_operators_Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab038_Operators_Unary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab039_Operator_Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab040_Relational_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab041_Logical_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab042_Interview_Concat_Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab043_Interview_Concat_Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab044_BODMAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab045_Equal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab046_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab047_OR_AND_GATE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab048_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab049_All_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab050_New_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab051_InstanceOf_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab052_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab053_Interivew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab054_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab055_Interivew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operators/Lab056_Interview.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +50,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -68,6 +84,27 @@
     "Application.Lab019_IntrerviewQnA.executor": "Run",
     "Application.Lab024_PrintF.executor": "Run",
     "Application.Lab025_Task_Table_9.executor": "Run",
+    "Application.Lab028_Final_Example.executor": "Run",
+    "Application.Lab028_Task_Table_9.executor": "Run",
+    "Application.Lab032_Literals_P4.executor": "Run",
+    "Application.Lab034_Char_Literal.executor": "Run",
+    "Application.Lab037_operators_Arithmetic.executor": "Run",
+    "Application.Lab038_Operators_Unary.executor": "Run",
+    "Application.Lab039_Operator_Modulus.executor": "Run",
+    "Application.Lab040_Relational_Operators.executor": "Run",
+    "Application.Lab041_Logical_Operators.executor": "Run",
+    "Application.Lab042_Interview_Concat_Plus.executor": "Run",
+    "Application.Lab043_Interview_Concat_Plus.executor": "Run",
+    "Application.Lab044_BODMAS.executor": "Run",
+    "Application.Lab045_Equal.executor": "Run",
+    "Application.Lab046_Interview.executor": "Run",
+    "Application.Lab047_OR_AND_GATE.executor": "Run",
+    "Application.Lab048_Interview.executor": "Run",
+    "Application.Lab049_All_Operators.executor": "Run",
+    "Application.Lab052_Interview.executor": "Run",
+    "Application.Lab054_Interview.executor": "Run",
+    "Application.Lab055_Interivew.executor": "Run",
+    "Application.Lab056_Interview.executor": "Run",
     "Application._.executor": "Run",
     "Application._V.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,20 +118,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab028_Task_Table_9">
-    <configuration name="Lab011_Comm_Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basic.Lab011_Comm_Math" />
-      <module name="LearningATB11xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab032_Literals_P4">
     <configuration name="Lab012_Comm_Math_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basic.Lab012_Comm_Math_Exception" />
       <module name="LearningATB11xJavaPrograms" />
@@ -147,13 +171,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab032_Literals_P4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_03_Literals.Lab032_Literals_P4" />
+      <module name="LearningATB11xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_03_Literals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab032_Literals_P4" />
         <item itemvalue="Application.Lab028_Task_Table_9" />
         <item itemvalue="Application.Lab024_PrintF" />
         <item itemvalue="Application.Lab014_MultipleMainMethod" />
         <item itemvalue="Application.Lab012_Comm_Math_Exception" />
-        <item itemvalue="Application.Lab011_Comm_Math" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741759253451</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="11-Mar-2025 Variable exercises">
+      <option name="closed" value="true" />
+      <created>1742186747380</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742186747380</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +276,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="06-Mar-2025 First program" />
     <MESSAGE value="10-Mar-2025 First day exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="10-Mar-2025 First day exercises" />
+    <MESSAGE value="11-Mar-2025 Variable exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-Mar-2025 Variable exercises" />
   </component>
 </project>
