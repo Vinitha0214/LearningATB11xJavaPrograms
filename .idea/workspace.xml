@@ -4,20 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="12-Mar-2025 Literals and Operator exercises">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Type_Casting/Lab058_TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Type_Casting/Lab059_TypeCasting_Narrowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Type_Casting/Lab060_TypeCasting_Narrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Type_Casting/Lab061_TypeCasting_Used.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab062_TO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab063_TO_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab064_Interview_Ready_Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab065_TO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab066_Even_Odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab067_TO_Three_Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab068_Real_Age_classification.java" afterDir="false" />
+    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="13-Mar-2025 Type Casting and Ternary Operator exercises">
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task002_In_De_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task003_In_De_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task004_CLI1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task005_CLI_TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task006_CLI_EvenorOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task007_Triangle_class_HR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab069_In_De_Op.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab071_POST_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab072_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab073_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab074_Advance_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab075_Exp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab076_Exp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab077_De.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab078_De_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab70_In_Op.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab080_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab081_If_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab082_If_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab083_Interview.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_05_Type_Casting/Lab057_TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Type_Casting/Lab057_TypeCasting_0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab028_Task_Table_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task001_Table_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,76 +57,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004_Comments.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab005_Comments.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006_CommentsMulti.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab007_Comments_ShortCuts.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab008_Comments.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab010_Keywords_Identifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab011_Comm_Math.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab012_Comm_Math_Exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab013_Println_vs_Print.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab014_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab016_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab017_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab018_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab019_IntrerviewQnA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab024_PrintF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab025_Task_Table_9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab028_Final_Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab028_Task_Table_9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab032_Literals_P4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab034_Char_Literal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab037_operators_Arithmetic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab038_Operators_Unary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab039_Operator_Modulus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab040_Relational_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab041_Logical_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab042_Interview_Concat_Plus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab043_Interview_Concat_Plus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab044_BODMAS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab045_Equal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab046_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab047_OR_AND_GATE.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab048_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab049_All_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab052_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab054_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab055_Interivew.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab056_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab059_TypeCasting_Narrowing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab060_TypeCasting_Narrow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab061_TypeCasting_Used.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab062_TO.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab063_TO_P1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab064_Interview_Ready_Question.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab065_TO.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab066_Even_Odd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab067_TO_Three_Max.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab068_Real_Age_classification.executor&quot;: &quot;Run&quot;,
-    &quot;Application._.executor&quot;: &quot;Run&quot;,
-    &quot;Application._V.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloWorld.executor": "Run",
+    "Application.Lab004_Comments.executor": "Run",
+    "Application.Lab005_Comments.executor": "Run",
+    "Application.Lab006_CommentsMulti.executor": "Run",
+    "Application.Lab007_Comments_ShortCuts.executor": "Run",
+    "Application.Lab008_Comments.executor": "Run",
+    "Application.Lab010_Keywords_Identifier.executor": "Run",
+    "Application.Lab011_Comm_Math.executor": "Run",
+    "Application.Lab012_Comm_Math_Exception.executor": "Run",
+    "Application.Lab013_Println_vs_Print.executor": "Run",
+    "Application.Lab014_Variables.executor": "Run",
+    "Application.Lab016_Variables.executor": "Run",
+    "Application.Lab017_Variables.executor": "Run",
+    "Application.Lab018_Variables.executor": "Run",
+    "Application.Lab019_IntrerviewQnA.executor": "Run",
+    "Application.Lab024_PrintF.executor": "Run",
+    "Application.Lab025_Task_Table_9.executor": "Run",
+    "Application.Lab028_Final_Example.executor": "Run",
+    "Application.Lab028_Task_Table_9.executor": "Run",
+    "Application.Lab032_Literals_P4.executor": "Run",
+    "Application.Lab034_Char_Literal.executor": "Run",
+    "Application.Lab037_operators_Arithmetic.executor": "Run",
+    "Application.Lab038_Operators_Unary.executor": "Run",
+    "Application.Lab039_Operator_Modulus.executor": "Run",
+    "Application.Lab040_Relational_Operators.executor": "Run",
+    "Application.Lab041_Logical_Operators.executor": "Run",
+    "Application.Lab042_Interview_Concat_Plus.executor": "Run",
+    "Application.Lab043_Interview_Concat_Plus.executor": "Run",
+    "Application.Lab044_BODMAS.executor": "Run",
+    "Application.Lab045_Equal.executor": "Run",
+    "Application.Lab046_Interview.executor": "Run",
+    "Application.Lab047_OR_AND_GATE.executor": "Run",
+    "Application.Lab048_Interview.executor": "Run",
+    "Application.Lab049_All_Operators.executor": "Run",
+    "Application.Lab052_Interview.executor": "Run",
+    "Application.Lab054_Interview.executor": "Run",
+    "Application.Lab055_Interivew.executor": "Run",
+    "Application.Lab056_Interview.executor": "Run",
+    "Application.Lab059_TypeCasting_Narrowing.executor": "Run",
+    "Application.Lab060_TypeCasting_Narrow.executor": "Run",
+    "Application.Lab061_TypeCasting_Used.executor": "Run",
+    "Application.Lab062_TO.executor": "Run",
+    "Application.Lab063_TO_P1.executor": "Run",
+    "Application.Lab064_Interview_Ready_Question.executor": "Run",
+    "Application.Lab065_TO.executor": "Run",
+    "Application.Lab066_Even_Odd.executor": "Run",
+    "Application.Lab067_TO_Three_Max.executor": "Run",
+    "Application.Lab068_Real_Age_classification.executor": "Run",
+    "Application.Lab071_POST_ID.executor": "Run",
+    "Application.Lab072_ID.executor": "Run",
+    "Application.Lab076_Exp2.executor": "Run",
+    "Application.Lab077_De.executor": "Run",
+    "Application.Lab078_De_P2.executor": "Run",
+    "Application.Lab080_If.executor": "Run",
+    "Application.Lab081_If_P1.executor": "Run",
+    "Application.Lab082_If_Else.executor": "Run",
+    "Application.Lab083_Interview.executor": "Debug",
+    "Application.Lab_069_In_De_Op.executor": "Run",
+    "Application.Lab_071_POST_ID.executor": "Run",
+    "Application.Lab_073_ID.executor": "Run",
+    "Application.Lab_074_Advance_ID.executor": "Run",
+    "Application.Lab_075_Exp1.executor": "Run",
+    "Application.Lab_70_In_Op.executor": "Run",
+    "Application.Task002_In_De_Operator.executor": "Run",
+    "Application.Task003_In_De_Operator.executor": "Run",
+    "Application.Task004_CLI1.executor": "Run",
+    "Application.Task005_CLI_TernaryOperator.executor": "Run",
+    "Application.Task006_CLI_EvenorOdd.executor": "Run",
+    "Application.Task007_Triangle_class_HR.executor": "Run",
+    "Application._.executor": "Run",
+    "Application._V.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lab068_Real_Age_classification">
-    <configuration name="Lab014_MultipleMainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Basics_part2.Lab014_MultipleMainMethod" />
+}]]></component>
+  <component name="RunManager" selected="Application.Task007_Triangle_class_HR">
+    <configuration name="Lab080_If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab080_If" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02_Java_Basics_part2.*" />
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +155,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab024_PrintF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Basics_part2.Lab024_PrintF" />
+    <configuration name="Lab081_If_P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab081_If_P1" />
       <module name="LearningATB11xJavaPrograms" />
+      <option name="PROGRAM_PARAMETERS" value="16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02_Java_Basics_part2.*" />
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab028_Task_Table_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Basics_part2.Lab028_Task_Table_9" />
+    <configuration name="Lab082_If_Else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab082_If_Else" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02_Java_Basics_part2.*" />
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab032_Literals_P4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_03_Literals.Lab032_Literals_P4" />
+    <configuration name="Lab083_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab083_Interview" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_03_Literals.*" />
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,13 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab068_Real_Age_classification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab068_Real_Age_classification" />
+    <configuration name="Task007_Triangle_class_HR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task007_Triangle_class_HR" />
       <module name="LearningATB11xJavaPrograms" />
-      <option name="PROGRAM_PARAMETERS" value="24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="PATTERN" value="Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,19 +209,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab068_Real_Age_classification" />
-      <item itemvalue="Application.Lab014_MultipleMainMethod" />
-      <item itemvalue="Application.Lab024_PrintF" />
-      <item itemvalue="Application.Lab028_Task_Table_9" />
-      <item itemvalue="Application.Lab032_Literals_P4" />
+      <item itemvalue="Application.Lab082_If_Else" />
+      <item itemvalue="Application.Lab083_Interview" />
+      <item itemvalue="Application.Task007_Triangle_class_HR" />
+      <item itemvalue="Application.Lab080_If" />
+      <item itemvalue="Application.Lab081_If_P1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab068_Real_Age_classification" />
-        <item itemvalue="Application.Lab032_Literals_P4" />
-        <item itemvalue="Application.Lab028_Task_Table_9" />
-        <item itemvalue="Application.Lab024_PrintF" />
-        <item itemvalue="Application.Lab014_MultipleMainMethod" />
+        <item itemvalue="Application.Task007_Triangle_class_HR" />
+        <item itemvalue="Application.Lab083_Interview" />
+        <item itemvalue="Application.Lab082_If_Else" />
+        <item itemvalue="Application.Lab081_If_P1" />
+        <item itemvalue="Application.Lab080_If" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742628991125</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="13-Mar-2025 Type Casting and Ternary Operator exercises">
+      <option name="closed" value="true" />
+      <created>1742961994439</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742961994439</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,6 +325,18 @@
     <MESSAGE value="10-Mar-2025 First day exercises" />
     <MESSAGE value="11-Mar-2025 Variable exercises" />
     <MESSAGE value="12-Mar-2025 Literals and Operator exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="12-Mar-2025 Literals and Operator exercises" />
+    <MESSAGE value="13-Mar-2025 Type Casting and Ternary Operator exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="13-Mar-2025 Type Casting and Ternary Operator exercises" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_08_If_Condition/Lab083_Interview.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

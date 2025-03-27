@@ -1,6 +1,6 @@
-package ex_02_Java_Basics_part2;
+package Tasks;
 
-public class Lab028_Task_Table_9 {
+public class Task001_Table_9 {
     public static void main(String[] args) {
         int num = 9;
         System.out.println("Multiplication table of "+num+":" );
