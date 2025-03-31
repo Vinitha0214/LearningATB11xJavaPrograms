@@ -4,29 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="13-Mar-2025 Type Casting and Ternary Operator exercises">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task002_In_De_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task003_In_De_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task004_CLI1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task005_CLI_TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task006_CLI_EvenorOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task007_Triangle_class_HR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab069_In_De_Op.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab071_POST_ID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab072_ID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab073_ID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab074_Advance_ID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab075_Exp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab076_Exp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab077_De.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab078_De_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab70_In_Op.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab080_If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab081_If_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab082_If_Else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab083_Interview.java" afterDir="false" />
+    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="14-Mar-2025 Increment decrement operator, If condition, Tasks">
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab084_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab085_SwitchWithoutBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab086_SwitchWithoutDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab087_Real_Switch_Automation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab088_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab089_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab090_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab091_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab092_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab093_JDK13Above.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab094_JDK13Above.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab095_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab096_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab097_For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab098_For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab099_For_Loop_Var_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab100_For_Loop_Var_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab101_For_Loop_IQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab102_For_No_Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab103_For_IF_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab104_For_IQ_P1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Basics_part2/Lab028_Task_Table_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task001_Table_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +116,27 @@
     "Application.Lab081_If_P1.executor": "Run",
     "Application.Lab082_If_Else.executor": "Run",
     "Application.Lab083_Interview.executor": "Debug",
+    "Application.Lab084_Switch.executor": "Run",
+    "Application.Lab085_SwitchWithoutBreak.executor": "Debug",
+    "Application.Lab086_SwitchWithoutDefault.executor": "Run",
+    "Application.Lab087_Real_Switch_Automation.executor": "Run",
+    "Application.Lab088_Interview.executor": "Run",
+    "Application.Lab089_Interview.executor": "Run",
+    "Application.Lab090_Interview.executor": "Run",
+    "Application.Lab091_Interview.executor": "Run",
+    "Application.Lab092_Interview.executor": "Run",
+    "Application.Lab093_JDK13Above.executor": "Run",
+    "Application.Lab094_JDK13Above.executor": "Run",
+    "Application.Lab095_Interview.executor": "Run",
+    "Application.Lab096_Interview.executor": "Run",
+    "Application.Lab097_For_Loop.executor": "Run",
+    "Application.Lab098_For_Loop.executor": "Run",
+    "Application.Lab099_For_Loop_Var_Name.executor": "Run",
+    "Application.Lab100_For_Loop_Var_Name.executor": "Run",
+    "Application.Lab101_For_Loop_IQ.executor": "Run",
+    "Application.Lab102_For_No_Condition.executor": "Run",
+    "Application.Lab103_For_IF_Loop.executor": "Run",
+    "Application.Lab104_For_IQ_P1.executor": "Run",
     "Application.Lab_069_In_De_Op.executor": "Run",
     "Application.Lab_071_POST_ID.executor": "Run",
     "Application.Lab_073_ID.executor": "Run",
@@ -141,13 +162,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task007_Triangle_class_HR">
-    <configuration name="Lab080_If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab080_If" />
+  <component name="RunManager" selected="Application.Lab104_For_IQ_P1">
+    <configuration name="Lab100_For_Loop_Var_Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab100_For_Loop_Var_Name" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="PATTERN" value="ex_10_For_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,13 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab081_If_P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab081_If_P1" />
+    <configuration name="Lab101_For_Loop_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab101_For_Loop_IQ" />
       <module name="LearningATB11xJavaPrograms" />
-      <option name="PROGRAM_PARAMETERS" value="16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="PATTERN" value="ex_10_For_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab082_If_Else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab082_If_Else" />
+    <configuration name="Lab102_For_No_Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab102_For_No_Condition" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="PATTERN" value="ex_10_For_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab083_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab083_Interview" />
+    <configuration name="Lab103_For_IF_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab103_For_IF_Loop" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="PATTERN" value="ex_10_For_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task007_Triangle_class_HR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Task007_Triangle_class_HR" />
+    <configuration name="Lab104_For_IQ_P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab104_For_IQ_P1" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks.*" />
+          <option name="PATTERN" value="ex_10_For_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,19 +229,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab082_If_Else" />
-      <item itemvalue="Application.Lab083_Interview" />
-      <item itemvalue="Application.Task007_Triangle_class_HR" />
-      <item itemvalue="Application.Lab080_If" />
-      <item itemvalue="Application.Lab081_If_P1" />
+      <item itemvalue="Application.Lab100_For_Loop_Var_Name" />
+      <item itemvalue="Application.Lab101_For_Loop_IQ" />
+      <item itemvalue="Application.Lab102_For_No_Condition" />
+      <item itemvalue="Application.Lab103_For_IF_Loop" />
+      <item itemvalue="Application.Lab104_For_IQ_P1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task007_Triangle_class_HR" />
-        <item itemvalue="Application.Lab083_Interview" />
-        <item itemvalue="Application.Lab082_If_Else" />
-        <item itemvalue="Application.Lab081_If_P1" />
-        <item itemvalue="Application.Lab080_If" />
+        <item itemvalue="Application.Lab104_For_IQ_P1" />
+        <item itemvalue="Application.Lab103_For_IF_Loop" />
+        <item itemvalue="Application.Lab102_For_No_Condition" />
+        <item itemvalue="Application.Lab101_For_Loop_IQ" />
+        <item itemvalue="Application.Lab100_For_Loop_Var_Name" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742961994439</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="14-Mar-2025 Increment decrement operator, If condition, Tasks">
+      <option name="closed" value="true" />
+      <created>1743060610651</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743060610651</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,7 +354,8 @@
     <MESSAGE value="11-Mar-2025 Variable exercises" />
     <MESSAGE value="12-Mar-2025 Literals and Operator exercises" />
     <MESSAGE value="13-Mar-2025 Type Casting and Ternary Operator exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="13-Mar-2025 Type Casting and Ternary Operator exercises" />
+    <MESSAGE value="14-Mar-2025 Increment decrement operator, If condition, Tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="14-Mar-2025 Increment decrement operator, If condition, Tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -335,6 +364,11 @@
           <url>file://$PROJECT_DIR$/src/ex_08_If_Condition/Lab083_Interview.java</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_09_Switch/Lab085_SwitchWithoutBreak.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
