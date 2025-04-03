@@ -4,28 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="14-Mar-2025 Increment decrement operator, If condition, Tasks">
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab084_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab085_SwitchWithoutBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab086_SwitchWithoutDefault.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab087_Real_Switch_Automation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab088_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab089_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab090_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab091_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab092_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab093_JDK13Above.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab094_JDK13Above.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab095_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab096_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab097_For_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab098_For_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab099_For_Loop_Var_Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab100_For_Loop_Var_Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab101_For_Loop_IQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab102_For_No_Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab103_For_IF_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab104_For_IQ_P1.java" afterDir="false" />
+    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="19-Mar-2025 Switch and For loop">
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab106_For_Loop_Concept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab107_ForLoop_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab108_ForLoop_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab109_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab110_ForLoop_Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab111_For_Loop_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab111_Odd_Even_From_Top50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab112_For_Loop_Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab113_For_LoopContinue_Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_While/Lab115_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_While/Lab116_While_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_While/Lab117_While_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_While/Lab118_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_While/Lab119_IQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_While/Lab120_While_Checl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_While/Lab121_While_IQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_While/Lab122_While_Guessing_Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,6 +133,24 @@
     "Application.Lab102_For_No_Condition.executor": "Run",
     "Application.Lab103_For_IF_Loop.executor": "Run",
     "Application.Lab104_For_IQ_P1.executor": "Run",
+    "Application.Lab106_For_Loop_Concept.executor": "Run",
+    "Application.Lab107_ForLoop_2.executor": "Run",
+    "Application.Lab108_ForLoop_3.executor": "Run",
+    "Application.Lab109_ForLoop.executor": "Run",
+    "Application.Lab109_ForLoop_Condition.executor": "Run",
+    "Application.Lab110_Odd_Even_From_Top50.executor": "Run",
+    "Application.Lab111_For_Loop_Break.executor": "Debug",
+    "Application.Lab111_Odd_Even_From_Top50.executor": "Run",
+    "Application.Lab112_For_Loop_Continue.executor": "Debug",
+    "Application.Lab113_For_LoopContinue_Even.executor": "Run",
+    "Application.Lab115_While.executor": "Run",
+    "Application.Lab116_While_2.executor": "Run",
+    "Application.Lab117_While_Loop.executor": "Run",
+    "Application.Lab118_While.executor": "Run",
+    "Application.Lab119_IQ.executor": "Debug",
+    "Application.Lab120_While_Checl.executor": "Run",
+    "Application.Lab121_While_IQ.executor": "Debug",
+    "Application.Lab122_While_Guessing_Game.executor": "Run",
     "Application.Lab_069_In_De_Op.executor": "Run",
     "Application.Lab_071_POST_ID.executor": "Run",
     "Application.Lab_073_ID.executor": "Run",
@@ -162,13 +176,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab104_For_IQ_P1">
-    <configuration name="Lab100_For_Loop_Var_Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab100_For_Loop_Var_Name" />
+  <component name="RunManager" selected="Application.Lab122_While_Guessing_Game">
+    <configuration name="Lab118_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_While.Lab118_While" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10_For_Loop.*" />
+          <option name="PATTERN" value="ex_11_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab101_For_Loop_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab101_For_Loop_IQ" />
+    <configuration name="Lab119_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_While.Lab119_IQ" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10_For_Loop.*" />
+          <option name="PATTERN" value="ex_11_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab102_For_No_Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab102_For_No_Condition" />
+    <configuration name="Lab120_While_Checl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_While.Lab120_While_Checl" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10_For_Loop.*" />
+          <option name="PATTERN" value="ex_11_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab103_For_IF_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab103_For_IF_Loop" />
+    <configuration name="Lab121_While_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_While.Lab121_While_IQ" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10_For_Loop.*" />
+          <option name="PATTERN" value="ex_11_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab104_For_IQ_P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab104_For_IQ_P1" />
+    <configuration name="Lab122_While_Guessing_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_While.Lab122_While_Guessing_Game" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10_For_Loop.*" />
+          <option name="PATTERN" value="ex_11_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,19 +243,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab100_For_Loop_Var_Name" />
-      <item itemvalue="Application.Lab101_For_Loop_IQ" />
-      <item itemvalue="Application.Lab102_For_No_Condition" />
-      <item itemvalue="Application.Lab103_For_IF_Loop" />
-      <item itemvalue="Application.Lab104_For_IQ_P1" />
+      <item itemvalue="Application.Lab122_While_Guessing_Game" />
+      <item itemvalue="Application.Lab118_While" />
+      <item itemvalue="Application.Lab119_IQ" />
+      <item itemvalue="Application.Lab120_While_Checl" />
+      <item itemvalue="Application.Lab121_While_IQ" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab104_For_IQ_P1" />
-        <item itemvalue="Application.Lab103_For_IF_Loop" />
-        <item itemvalue="Application.Lab102_For_No_Condition" />
-        <item itemvalue="Application.Lab101_For_Loop_IQ" />
-        <item itemvalue="Application.Lab100_For_Loop_Var_Name" />
+        <item itemvalue="Application.Lab122_While_Guessing_Game" />
+        <item itemvalue="Application.Lab121_While_IQ" />
+        <item itemvalue="Application.Lab120_While_Checl" />
+        <item itemvalue="Application.Lab119_IQ" />
+        <item itemvalue="Application.Lab118_While" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743060610651</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="19-Mar-2025 Switch and For loop">
+      <option name="closed" value="true" />
+      <created>1743432245565</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1743432245565</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,7 +377,8 @@
     <MESSAGE value="12-Mar-2025 Literals and Operator exercises" />
     <MESSAGE value="13-Mar-2025 Type Casting and Ternary Operator exercises" />
     <MESSAGE value="14-Mar-2025 Increment decrement operator, If condition, Tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="14-Mar-2025 Increment decrement operator, If condition, Tasks" />
+    <MESSAGE value="19-Mar-2025 Switch and For loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="19-Mar-2025 Switch and For loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -369,6 +392,11 @@
           <url>file://$PROJECT_DIR$/src/ex_09_Switch/Lab085_SwitchWithoutBreak.java</url>
           <line>10</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_11_While/Lab119_IQ.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
