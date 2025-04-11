@@ -4,26 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="20-Mar-2025 For loop and While loop">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task008_Fibo_Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task009_FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task010_Count_Vowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task011_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task012_RightTriangle_Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task014_LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_013_Left_Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11_While/Lab123_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_DoWhile/Lab125_Do_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_DoWhile/Lab126_Diff_While_DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_DoWhile/Lab127_DoWhile_Real.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_Functions/Lab128_Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_Functions/Lab129_Method_Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_Functions/Lab130_Simple_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_Functions/Lab131_User_Defined_one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_Functions/Lab132_UD_Part1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_Functions/Lab133_InterviewQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_Functions/Lab134_Function_Arth.java" afterDir="false" />
+    <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="20-Mar-2025 Do While loop and Functions">
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab135_String_Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab136_String_Creation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab137_String_Imm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab138_String_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab139_Strings_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab140_Interivew_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab141_String_Interivew_IM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab142_String_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab143_String_Functions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13_Functions/Lab134_Function_Arth_EdgeCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13_Functions/Lab134_Function_Arth_EdgeCases.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +154,14 @@
     "Application.Lab132_UD_Part1.executor": "Run",
     "Application.Lab133_InterviewQ.executor": "Run",
     "Application.Lab134_Function_Arth.executor": "Run",
+    "Application.Lab134_Function_Arth_EdgeCases.executor": "Run",
+    "Application.Lab135_String_Immutable.executor": "Run",
+    "Application.Lab137_String_Imm.executor": "Run",
+    "Application.Lab138_String_Functions.executor": "Run",
+    "Application.Lab139_Strings_Interview.executor": "Run",
+    "Application.Lab141_String_Interivew_IM.executor": "Run",
+    "Application.Lab142_String_Functions.executor": "Run",
+    "Application.Lab143_String_Functions.executor": "Run",
     "Application.Lab_069_In_De_Op.executor": "Run",
     "Application.Lab_071_POST_ID.executor": "Run",
     "Application.Lab_073_ID.executor": "Run",
@@ -184,16 +184,16 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab134_Function_Arth_EdgeCases">
-    <configuration name="Lab130_Simple_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Functions.Lab130_Simple_Method" />
+  <component name="RunManager" selected="Application.Lab143_String_Functions">
+    <configuration name="Lab138_String_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab138_String_Functions" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_Functions.*" />
+          <option name="PATTERN" value="ex_14_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab131_User_Defined_one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Functions.Lab131_User_Defined_one" />
+    <configuration name="Lab139_Strings_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab139_Strings_Interview" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_Functions.*" />
+          <option name="PATTERN" value="ex_14_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab132_UD_Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Functions.Lab132_UD_Part1" />
+    <configuration name="Lab141_String_Interivew_IM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab141_String_Interivew_IM" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_Functions.*" />
+          <option name="PATTERN" value="ex_14_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab133_InterviewQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Functions.Lab133_InterviewQ" />
+    <configuration name="Lab142_String_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab142_String_Functions" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_Functions.*" />
+          <option name="PATTERN" value="ex_14_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab134_Function_Arth_EdgeCases" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Functions.Lab134_Function_Arth_EdgeCases" />
+    <configuration name="Lab143_String_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab143_String_Functions" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_Functions.*" />
+          <option name="PATTERN" value="ex_14_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,19 +254,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab131_User_Defined_one" />
-      <item itemvalue="Application.Lab132_UD_Part1" />
-      <item itemvalue="Application.Lab133_InterviewQ" />
-      <item itemvalue="Application.Lab134_Function_Arth_EdgeCases" />
-      <item itemvalue="Application.Lab130_Simple_Method" />
+      <item itemvalue="Application.Lab143_String_Functions" />
+      <item itemvalue="Application.Lab138_String_Functions" />
+      <item itemvalue="Application.Lab139_Strings_Interview" />
+      <item itemvalue="Application.Lab141_String_Interivew_IM" />
+      <item itemvalue="Application.Lab142_String_Functions" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab134_Function_Arth_EdgeCases" />
-        <item itemvalue="Application.Lab133_InterviewQ" />
-        <item itemvalue="Application.Lab132_UD_Part1" />
-        <item itemvalue="Application.Lab131_User_Defined_one" />
-        <item itemvalue="Application.Lab130_Simple_Method" />
+        <item itemvalue="Application.Lab143_String_Functions" />
+        <item itemvalue="Application.Lab142_String_Functions" />
+        <item itemvalue="Application.Lab141_String_Interivew_IM" />
+        <item itemvalue="Application.Lab139_Strings_Interview" />
+        <item itemvalue="Application.Lab138_String_Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743690877822</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="20-Mar-2025 Do While loop and Functions">
+      <option name="closed" value="true" />
+      <created>1744100423948</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1744100423948</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -398,7 +406,8 @@
     <MESSAGE value="14-Mar-2025 Increment decrement operator, If condition, Tasks" />
     <MESSAGE value="19-Mar-2025 Switch and For loop" />
     <MESSAGE value="20-Mar-2025 For loop and While loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="20-Mar-2025 For loop and While loop" />
+    <MESSAGE value="20-Mar-2025 Do While loop and Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="20-Mar-2025 Do While loop and Functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
