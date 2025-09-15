@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e4514ba-a9f7-45ab-97a6-525b0b1f3bd9" name="Changes" comment="24-Mar-2025 Strings and Strings functions">
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab144_StringBuffer_vs_StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab145_StringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab146_StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab147_SBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Strings/Lab148_SBuffer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task011_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task011_Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,9 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="03cd01fa-a5a5-4c49-9f22-e0de8985b47e" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -153,6 +162,11 @@
     "Application.Lab141_String_Interivew_IM.executor": "Run",
     "Application.Lab142_String_Functions.executor": "Run",
     "Application.Lab143_String_Functions.executor": "Run",
+    "Application.Lab144_StringBuffer_vs_StringBuilder.executor": "Run",
+    "Application.Lab145_SB.executor": "Run",
+    "Application.Lab146_StringBuilder.executor": "Run",
+    "Application.Lab147_SBuilder.executor": "Run",
+    "Application.Lab148_SBuffer.executor": "Run",
     "Application.Lab_069_In_De_Op.executor": "Run",
     "Application.Lab_071_POST_ID.executor": "Run",
     "Application.Lab_073_ID.executor": "Run",
@@ -178,9 +192,9 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab143_String_Functions">
-    <configuration name="Lab138_String_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab138_String_Functions" />
+  <component name="RunManager" selected="Application.Task007_Triangle_class_HR">
+    <configuration name="Lab145_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab145_StringBuffer" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -192,8 +206,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab139_Strings_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab139_Strings_Interview" />
+    <configuration name="Lab146_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab146_StringBuilder" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -205,8 +219,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab141_String_Interivew_IM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab141_String_Interivew_IM" />
+    <configuration name="Lab147_SBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab147_SBuilder" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -218,8 +232,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab142_String_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab142_String_Functions" />
+    <configuration name="Lab148_SBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab148_SBuffer" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -231,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab143_String_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab143_String_Functions" />
+    <configuration name="Task007_Triangle_class_HR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task007_Triangle_class_HR" />
       <module name="LearningATB11xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14_Strings.*" />
+          <option name="PATTERN" value="Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,19 +259,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab143_String_Functions" />
-      <item itemvalue="Application.Lab138_String_Functions" />
-      <item itemvalue="Application.Lab139_Strings_Interview" />
-      <item itemvalue="Application.Lab141_String_Interivew_IM" />
-      <item itemvalue="Application.Lab142_String_Functions" />
+      <item itemvalue="Application.Lab145_StringBuffer" />
+      <item itemvalue="Application.Lab146_StringBuilder" />
+      <item itemvalue="Application.Lab147_SBuilder" />
+      <item itemvalue="Application.Lab148_SBuffer" />
+      <item itemvalue="Application.Task007_Triangle_class_HR" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab143_String_Functions" />
-        <item itemvalue="Application.Lab142_String_Functions" />
-        <item itemvalue="Application.Lab141_String_Interivew_IM" />
-        <item itemvalue="Application.Lab139_Strings_Interview" />
-        <item itemvalue="Application.Lab138_String_Functions" />
+        <item itemvalue="Application.Task007_Triangle_class_HR" />
+        <item itemvalue="Application.Lab148_SBuffer" />
+        <item itemvalue="Application.Lab147_SBuilder" />
+        <item itemvalue="Application.Lab146_StringBuilder" />
+        <item itemvalue="Application.Lab145_StringBuffer" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744371929894</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="24-Mar-2025 Strings and Strings functions">
+      <option name="closed" value="true" />
+      <created>1744372518275</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1744372518275</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
